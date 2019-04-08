@@ -237,7 +237,7 @@ $ber=$pnk."
 ▒██░█▀  ▒▓█  ▄ ▒██▀▀█▄  ▒██    ▒██ ░██░
 ░▓█  ▀█▓░▒████▒░██▓ ▒██▒▒██▒   ░██▒░██░
 ░▒▓███▀▒░░ ▒░ ░░ ▒▓ ░▒▓░░ ▒░   ░  ░░▓
-Creator by$red :$ijo Cocentz$kn | code$red :$ijo 43939f79$kn
+[Creator by$red :$ijo Cocentz$kn][Code$red :$ijo 43939f79$kn]
 ▒░▒   ░  ░ ░  ░  ░▒ ░ ▒░░  ░      ░ ▒ ░
  ░    ░    ░     ░░   ░ ░      ░    ▒ ░
  ░         ░  ░   ░            ░    ░".$t;
