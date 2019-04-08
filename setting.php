@@ -244,4 +244,5 @@ $ber=$pnk."
 $info_ber=$pth."[$ijo#$pth] bot suntik app bermi ".$t;
 $msg_bet=$pth."[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."[$red>$pth]$red Subscribe YT$pth 👉 Cocentz 404".$t."[$br>$pth]$red Subscribe YT 👉 [$br AW 2000".$pth."][".$pnk"HĂN C_GAMER".$pth."]".$t;
 $stat_ber=true;
+
 ?>
