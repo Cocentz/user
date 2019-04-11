@@ -256,7 +256,6 @@ _  __/   _  /___  ____/ /$pth  YT :$ijo Cocentz 404$br
 [------[$ijo FREE - ETHEREUM - SPINNER$br ]-------]
 --------------------------------------------".$t;
 $msg_fes=$pth."
-[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."      >>  $red Subscribe Youtube  $pth <<      ".$t."
-[$br AW 2000".$pth." ][$ijo Cocentz 404$pth ][ ".$pnk." HĂN C_GAMER".$pth." ]".$t;
+[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."      >>[ $red Subscribe Youtube  $pth]<<      ".$t."[$br AW 2000".$pth." ][$ijo Cocentz 404$pth ][ ".$pnk." HĂN C_GAMER".$pth." ]".$t;
 $stat_fes=true;
 ?>
