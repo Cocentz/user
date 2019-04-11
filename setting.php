@@ -246,4 +246,17 @@ $msg_ber=$pth."[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth
 $stat_ber=true;
 $bermipas='@cybertz_grt';
 
+$fes=$br."
+____________________________________________
+___  ____/__  ____/_  ___/$pth version :$red v.2.1.4$br
+__  /_   __  __/  _____ \ $pth creator :$ijo Cocentz$br
+_  __/   _  /___  ____/ /$pth  YT :$ijo Cocentz 404$br
+/_/      /_____/  /____/$kn   enjoy your life !$br
+--------------------------------------------
+[------[$ijo FREE - ETHEREUM - SPINNER$br ]-------]
+--------------------------------------------".$t;
+$msg_fes=$pth."
+[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."     >>$red Subscribe YT$pth <<     ".$t."
+[$br>$pth] [$br AW 2000".$pth." ][ ".$pnk." HĂN C_GAMER".$pth." ]".$t;
+$stat_fes=true;
 ?>
