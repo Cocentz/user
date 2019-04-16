@@ -258,4 +258,16 @@ _  __/   _  /___  ____/ /$pth  YT :$ijo Cocentz 404$br
 $msg_fes=$pth."
 [$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."      >>[ $red Subscribe Youtube  $pth]<<      ".$t."[$br AW 2000".$pth." ][$ijo Cocentz 404$pth ][ ".$pnk." HĂN C_GAMER".$pth." ]".$t;
 $stat_fes=true;
+
+$like=$kn."
+__".$pth."L".$kn."___".$pth."I".$kn."___".$pth."K".$kn."___".$pth."E".$kn."___      __".$pth."M".$kn."__  _".$pth."E".$kn."_   _".$pth."REWARDS".$kn."_
+___  /___(_)__  /_________   |/  /_______  __ \
+__  / __  /__  //_/  _ \_  /|_/ /_  _ \_  /_/ /
+_  /___  / _  ,<  /  __/  /  / / /  __/  _, _/
+/_____/_/  /_/|_| \___//_/  /_/  \___//_/ |_|$pth
+-----------------$red v.1.6$tr ready$pth ----------------
+[ Creator$red :$ijo Cocentz$pth ]==+==[$red Yt :$ijo Cocentz 404$pth ]
+----------------------------------------------".$t;
+$msg_like=$pth."";
+$stat_like=true;
 ?>
