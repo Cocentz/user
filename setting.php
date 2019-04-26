@@ -288,4 +288,17 @@ $msg_ltc=$pth."
 [--$br AW 2000$pth --]==[".$ijo."&".$pth."]==[-$kn HĂN C_GAMER$pth -]".$t;
 $stat_ltc=true;
 
+$ec=$kn."
+ _____$pth  BOT -$ijo REFERAL$kn  ____$red v.1$tr READY".$kn."_
+| ____|__ _ ___ _   _ / ___|__ _ ___| |__
+|  _| / _` / __| | | | |   / _` / __| '_ \
+| |__| (_| \__ \ |_| | |__| (_| \__ \ | | |
+|_____\__,_|___/\__, |\____\__,_|___/_| |_|$ijo
+enjoy your life$kn |___/$pth creator :$ijo Cocentz$kn ---
+-------------------------------------------".$t;
+$msg_ec=$pth."
+[-- support :$tr AW 2000$ijo &$pnk HĂN C_GAMER$pth --]".$t.$pth."    -👇$red Subscribe Channel Youtube$pth 👇-
+[--$br AW 2000$pth --]==[".$ijo."&".$pth."]==[-$kn HĂN C_GAMER$pth -]".$t;
+$stat_ec=true;
+$pwec='gaktaubro';
 ?>
