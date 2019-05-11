@@ -326,6 +326,6 @@ $msgQ=$pth."
 •$red cybertz.grt.pp99@gmail.com$br  ^_^$pth •
 +•••••••••••••••••••••••••••••••••+".$t;
 $stat_qr=true;
-$psw='';
+
 
 ?>
