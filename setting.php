@@ -310,7 +310,7 @@ $qri=$ijo."
 \___\_\__/   __/ __/ \_\\___/\___/ $pth
 
 +•••••••••••••••••••••••••••••••••+
-| Created:$ijo Cocentz$pth | Code:$ijo 15D42A$pth |
+| Created:$ijo Cocentz$pth | Code:$ijo JVTE22$pth |
 |\033[0m Version scrypt :$red v 1.0$tr Ready _^$pth |
 +•••••••••••••••••••••••••••••••••+
 ";
