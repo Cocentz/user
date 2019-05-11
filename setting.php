@@ -319,7 +319,7 @@ $msgQ=$pth."
 •$ijo Cocentz404$pth •$tr adidoank$pth •$kn AW 2000$pth •
 •$pnk HĂN C_GAMER$pth    &&$br    MK KHAIRIL$pth •
 +••••••[$tr     MY SUPPORT$pth    ]••••••+
-•$pnk HĂN C_GAMER$pth •".$kn."AW 2000".$pth."•$bt MK KHAIRIL".$pth."•
+•$pnk HĂN C_GAMER$pth •".$kn."AW 2000".$pth."•$br MK KHAIRIL".$pth."•
 +••••••[$tr     MY CONTACT$pth    ]••••••+
 •$ijo Whatsapp :$pth +6285218219161 :)    •
 •$red cybertz.grt.pp99@gmail.com$br  ^_^$pth •
