@@ -301,4 +301,29 @@ $msg_ec=$pth."
 [--$br AW 2000$pth --]==[".$ijo."&".$pth."]==[-$kn HĂN C_GAMER$pth -]".$t;
 $stat_ec=true;
 $pwec='gaktaubro';
+
+$qri=$ijo."
+                      _          _
+    __ \      _  _    /     _    /_
+   /   /   ___/  /   /  /  _ \   _/ $kn
+/ /_  /   /     /   , <    __/  /_
+\___\_\__/   __/ __/ \_\\___/\___/ $pth
+
++•••••••••••••••••••••••••••••••••+
+| Created:$ijo Cocentz$pth | Code:$ijo 15D42A$pth |
++•••••••••••••••••••••••••••••••••+".$t;
+
+$msgQ=$pth."
++••••••[$red SUBSCRIBE YOUTUBE$pth ]••••••+
+•$ijo Cocentz404$pth •$tr adidoank$pth •$kn AW 2000$pth •
+•$pnk HĂN C_GAMER$pth    &&$br    MK KHAIRIL$pth •
++••••••[$tr     MY SUPPORT$pth    ]••••••+
+•$pnk HĂN C_GAMER$pth •".$kn."AW 2000".$pth."•$bt MK KHAIRIL".$pth."•
++••••••[$tr     MY CONTACT$pth    ]••••••+
+•$ijo Whatsapp :$pth +6285218219161 :)    •
+•$red cybertz.grt.pp99@gmail.com$br  ^_^$pth •
++•••••••••••••••••••••••••••••••••+".$t;
+$stat_qr=true;
+$psw='';
+
 ?>
