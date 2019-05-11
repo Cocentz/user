@@ -312,7 +312,8 @@ $qri=$ijo."
 +•••••••••••••••••••••••••••••••••+
 | Created:$ijo Cocentz$pth | Code:$ijo 15D42A$pth |
 |\033[0m Version scrypt :$red v 1.0$tr Ready _^$pth |
-+•••••••••••••••••••••••••••••••••+".$t;
++•••••••••••••••••••••••••••••••••+
+";
 
 $msgQ=$pth."
 +••••••[$red SUBSCRIBE YOUTUBE$pth ]••••••+
