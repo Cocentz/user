@@ -334,3 +334,12 @@ $gon=$pth."
 ░░░".$red."▀▀▀".$pth."░░░░░".$red."▀▀▀".$pth."░░░░░".$red."▀".$pth."░".$red."▀".$pth."░░░░░".$red."▀▀▀".$pth."░░░░░".$red."▀".$pth."░".$red."▀".$pth."░░
 ░░CREATED░".$red.":".$pth."░".$ijo."Cocentz".$pth."░".$ijo."•".$pth."░YT░".$red.":".$pth."░".$red."Cocentz".$pth."░".$red."404".$pth."░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░".$t;
+
+$msgon=$pth."
+•----------[$tr SUPPORT$pth ]----------•
+|".$kn."AW 2000,".$br."HĂN C_GAMER,".$pk."MK KHAIRIL$pth |
+|-----[$red SUBSCRIBE YOUTUBE$pth ]-----|
+|$ijo  Cocentz 404$pth &&$ijo  adi bordir$pth   |
+|".$kn."AW 2000,".$br."HĂN C_GAMER,".$pk."MK KHAIRIL$pth |
+•-------------------------------•".$t;
+
