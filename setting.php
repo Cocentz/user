@@ -328,12 +328,12 @@ $msgQ=$pth."
 $stat_qr=true;
 
 $gon=$pth."
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░".$red."v.0.1".$pth."░".$tr."TOOL".$pth."░".$tr."VIP".$pth."░░░░░░░░░░░░░
 ░░░".$red."█▀▀".$pth."░░░░░".$red."█▀█".$pth."░░░░░".$red."█▀█".$pth."░░░░░".$red."▀█▀".$pth."░░░░░".$red."█".$pth."░".$red."█".$pth."░░
 ░░░".$red."█".$pth."░".$red."█".$pth."░░░░░".$red."█".$pth."░".$red."█".$pth."░░░░░".$red."█".$pth."░".$red."█".$pth."░░░░░░".$red."█".$pth."░░░░░░".$red."▄▀▄".$pth."░░
 ░░░".$red."▀▀▀".$pth."░░░░░".$red."▀▀▀".$pth."░░░░░".$red."▀".$pth."░".$red."▀".$pth."░░░░░".$red."▀▀▀".$pth."░░░░░".$red."▀".$pth."░".$red."▀".$pth."░░
 ░░CREATED░".$red.":".$pth."░".$ijo."Cocentz".$pth."░".$ijo."•".$pth."░YT░".$red.":".$pth."░".$red."Cocentz".$pth."░".$red."404".$pth."░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░".$t;
+░░░░".$tr."TOOLS".$pth."░".$tr."SUNTIK".$pth."░".$tr."REFRAL".$pth."░".$ijo."&".$pth."░".$tr."AUTO".$pth."░".$tr."CLAIM".$pth."░░░░".$t;
 
 $msgon=$pth."
    •-----------[$tr SUPPORT$pth ]----------•
