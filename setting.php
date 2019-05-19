@@ -336,10 +336,10 @@ $gon=$pth."
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░".$t;
 
 $msgon=$pth."
-•----------[$tr SUPPORT$pth ]----------•
-|".$kn."AW 2000,".$br."HĂN C_GAMER,".$pk."MK KHAIRIL$pth |
-|-----[$red SUBSCRIBE YOUTUBE$pth ]-----|
-|$ijo  Cocentz 404$pth &&$ijo  adi bordir$pth   |
-|".$kn."AW 2000,".$br."HĂN C_GAMER,".$pk."MK KHAIRIL$pth |
-•-------------------------------•".$t;
+   •-----------[$tr SUPPORT$pth ]----------•
+   | ".$kn."AW 2000,".$br."HĂN C_GAMER,".$pk."MK KHAIRIL$pth |
+   |-----[$red SUBSCRIBE YOUTUBE$pth ]------|
+   |$ijo  Cocentz 404 $pth &&$ijo  adi bordir$pth   |
+   | ".$tr."AW 2000,".$kn."HĂN C_GAMER,".$br."MK KHAIRIL$pth |
+   •--------------------------------•".$t;
 
