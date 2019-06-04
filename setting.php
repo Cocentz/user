@@ -343,3 +343,7 @@ $msgon=$pth."
    | ".$tr."AW 2000,".$kn."HĂN C_GAMER,".$br."MK KHAIRIL$pth |
    •--------------------------------•".$t;
 
+/*---------*/
+$st_moneycube=true;
+
+
